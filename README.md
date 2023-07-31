@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**daminellis/daminellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Meu nome é [Matheus Daminelli], e eu sou apaixonado por [informatica].
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Cursando o ensino tecnico de informatica e engenharia de software.]
+
+## Projetos Destacados
+
+Por enquanto nada por aqui, apenas abastecendo meus conhecimentos
+
+## Contato
+
+Se você deseja entrar em contato comigo, você pode me encontrar em:
+
+- [LinkedIn](seu_perfil_linkedin)
+- [Instagram](matheus_a._daminelli)
+- [E-mail](matheus.daminelli@gmail.com)
+
+Sinta-se à vontade para dar uma olhada nos meus projetos e contribuições. Se gostar de algum deles, não esqueça de deixar uma ⭐ no repositório! Agradeço sua visita ao meu perfil do GitHub!
