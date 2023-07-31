@@ -15,7 +15,7 @@ Por enquanto nada por aqui, apenas abastecendo meus conhecimentos
 Se você deseja entrar em contato comigo, você pode me encontrar em:
 
 - [LinkedIn](seu_perfil_linkedin)
-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheus_a._daminelli)
+- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_a._daminelli/?next=%2F)
 - [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white])](matheus.daminelli@gmail.com)
 
 Sinta-se à vontade para dar uma olhada nos meus projetos e contribuições. Se gostar de algum deles, não esqueça de deixar uma ⭐ no repositório! Agradeço sua visita ao meu perfil do GitHub!
