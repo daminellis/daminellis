@@ -1,10 +1,10 @@
 # Olá! 👋👋
 
-Bem-vindo ao meu perfil do GitHub! Meu nome é [Matheus Daminelli], e eu sou apaixonado por [informatica].
+Bem-vindo ao meu perfil do GitHub! Meu nome é Matheus Daminelli, e eu sou apaixonado por informatica.
 
 ## Sobre mim
 
-[Cursando o ensino tecnico de informatica e engenharia de software.]
+Cursando o ensino tecnico de informatica e engenharia de software.
 
 ## Projetos Destacados
 
