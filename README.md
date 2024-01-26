@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Meu nome é Matheus Daminelli, e eu sou apaix
 
 ## Sobre mim
 
-Cursando o ensino tecnico de informatica e engenharia de software.
+Cursando o ensino tecnico de informatica e engenharia de software...
 
 Curso de react native com js✅
 
