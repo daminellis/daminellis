@@ -10,7 +10,7 @@ Curso de react native com js✅
 
 Alguns outros cursos basicos e gratuitos (udemy,rocketseat...)✅
 
-Inglês fluente e Português
+Inglês fluente e Português🇧🇷🇺🇸
 ## Projetos Destacados
 
 Por enquanto nada por aqui, apenas abastecendo meus conhecimentos
