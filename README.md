@@ -1,4 +1,4 @@
-# Whats up! 👋👋
+# Whats up DEV! 👋👋
 
 Welcome to my GitHub profile! My name is Matheus Daminelli, I am a IT lover.
 
