@@ -40,7 +40,6 @@ If you would like to contact me, you can find me on:
 <div>
   <a href="https://github.com/daminellis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminellis&layout=compact&theme=dracula&show_icons=true" />
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daminellis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
