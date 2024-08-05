@@ -10,7 +10,7 @@ Course of react native with js✅
 
 Some other basic courses and free ones (udemy,rocketseat...)✅
 
-Inglês fluente e Português 🇧🇷 🇺🇸
+English fluently and Portuguese 🇧🇷 🇺🇸
 
 ## Featured Projects
 
