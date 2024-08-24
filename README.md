@@ -38,9 +38,10 @@ If you would like to contact me, you can find me on:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_a._daminelli/)
 
 <div>
-  <a href="https://github.com/daminellis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daminellis&layout=compact&theme=dracula&show_icons=true" />
-  </a>
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=daminellis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daminellis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
 </div>
 
 Feel free to take a look at my projects and contributions.
