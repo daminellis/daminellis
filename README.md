@@ -4,7 +4,7 @@ Welcome to my GitHub profile! My name is Matheus Daminelli, I am a IT lover.
 
 ## About me
 
-UNISATC Software Engineering 5/8
+UNISATC Software Engineering 6/8
 
 SATC Technical course of IT 4/4
 
@@ -16,7 +16,8 @@ English fluently and Portuguese 🇧🇷 🇺🇸
 
 ## Featured Projects
 
-Nothing here for now, just acquiring my knowledge
+- [Recruiting platform](https://github.com/daminellis/plataforma_recrutamento_engeplus)
+- [Coffee Shop Online](https://github.com/daminellis/SnackupLanchonete)
 
 ## Studying...
 
