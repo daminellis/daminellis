@@ -81,18 +81,23 @@ Specialized in React, React Native, Kotlin, and scalable backend architectures.
 <a href="https://github.com/daminellis/plataforma_recrutamento_engeplus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=plataforma_recrutamento_engeplus&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="Recruiting Platform"/>
 </a>
+<br/>
 <a href="https://github.com/daminellis/sugarbyte">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=sugarbyte&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="SugarByte"/>
 </a>
+<br/>
 <a href="https://github.com/daminellis/ProjetoTCC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=ProjetoTCC&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="ProjetoTCC"/>
 </a>
+<br/>
 <a href="https://github.com/daminellis/SnackupLanchonete">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=SnackupLanchonete&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="SnackupLanchonete"/>
 </a>
+<br/>
 <a href="https://github.com/daminellis/k6-performance-testing">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=k6-performance-testing&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="K6 Performance Testing"/>
 </a>
+<br/>
 <a href="https://github.com/daminellis/playwright-e2e">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=playwright-e2e&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="Playwright E2E"/>
 </a>
@@ -105,12 +110,6 @@ Specialized in React, React Native, Kotlin, and scalable backend architectures.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daminellis&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true&area_color=bd93f9" width="95%" alt="activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daminellis&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=10" height="180" alt="trophies"/>
 </div>
 
 <br/>
