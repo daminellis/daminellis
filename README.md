@@ -1,52 +1,144 @@
-# Whats up DEV! 👋👋
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
-Welcome to my GitHub profile! My name is Matheus Daminelli, I am a IT lover.
+<br/>
 
-## About me
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
 
-UNISATC Software Engineering 6/8
+<br/>
 
-SATC Technical course of IT 4/4
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-Course of react native with js✅
+<br/>
 
-Some other basic courses and free ones (udemy,rocketseat...)✅
+<details>
+<summary><strong>More about me</strong></summary>
 
-English fluently and Portuguese 🇧🇷 🇺🇸
+<br/>
+
+Transforming ideas into digital solutions through clean code and modern technologies.
+Specialized in React, React Native, Kotlin, and scalable backend architectures.
+
+**Currently at** VoxCity Telecom — Criciuma, SC, Brazil
+
+</details>
+
+<br/>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2025-50fa7b?style=flat-square&logoColor=white" alt="2025"/></td>
+<td>
+<strong>Full Stack Developer</strong> — VoxCity Telecom<br/>
+<sub>Building projects from scratch with scalable architecture, database design and technical recommendations.</sub>
+</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2025-bd93f9?style=flat-square&logoColor=white" alt="2025"/></td>
+<td>
+<strong>Full Stack Developer</strong> — EAP Engenharia e Automacao<br/>
+<sub>Mobile and web projects with focus on quality and agile development. Architected features and proposed technical solutions.</sub>
+</td>
+</tr>
+</table>
+
+## Education
+
+<table>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2023--2026-ff79c6?style=flat-square" alt="2023-2026"/></td>
+<td><strong>Software Engineering</strong> — UNISATC <em>(in progress)</em></td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2023--2024-bd93f9?style=flat-square" alt="2023-2024"/></td>
+<td><strong>IT Technician</strong> — SATC</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2022-50fa7b?style=flat-square" alt="2022"/></td>
+<td><strong>React Native</strong> — SATC <sub>(44h)</sub></td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2010--2020-8be9fd?style=flat-square" alt="2010-2020"/></td>
+<td><strong>English — Intermediate/Advanced</strong> — Yazigi</td>
+</tr>
+</table>
+
+---
 
 ## Featured Projects
 
-- [Recruiting platform](https://github.com/daminellis/plataforma_recrutamento_engeplus)
-- [Coffee Shop Online](https://github.com/daminellis/SnackupLanchonete)
+<div align="center">
 
-## Studying...
+<a href="https://github.com/daminellis/plataforma_recrutamento_engeplus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=plataforma_recrutamento_engeplus&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="Recruiting Platform"/>
+</a>
+<a href="https://github.com/daminellis/sugarbyte">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=sugarbyte&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="SugarByte"/>
+</a>
+<a href="https://github.com/daminellis/ProjetoTCC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=ProjetoTCC&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="ProjetoTCC"/>
+</a>
+<a href="https://github.com/daminellis/SnackupLanchonete">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=SnackupLanchonete&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="SnackupLanchonete"/>
+</a>
+<a href="https://github.com/daminellis/k6-performance-testing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=k6-performance-testing&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="K6 Performance Testing"/>
+</a>
+<a href="https://github.com/daminellis/playwright-e2e">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daminellis&repo=playwright-e2e&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" width="400" alt="Playwright E2E"/>
+</a>
 
-<div>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </div>
 
-## Contacts
+<br/>
 
-If you would like to contact me, you can find me on:
+## Activity
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-daminelli-2b2088286)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/48991280208)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_a._daminelli/)
-
-<div>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=daminellis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daminellis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daminellis&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true&area_color=bd93f9" width="95%" alt="activity graph"/>
 </div>
 
-Feel free to take a look at my projects and contributions.
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daminellis&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=10" height="180" alt="trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/daminellis/daminellis/output/github-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<a href="https://matheusdaminelli.com">
+  <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff79c6" alt="Portfolio"/>
+</a>
+<a href="mailto:matheus.daminelli@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff5555" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/matheus-augusto-daminelli-2b2088286">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=bd93f9" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/48991280208">
+  <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=50fa7b" alt="WhatsApp"/>
+</a>
+<a href="https://www.instagram.com/matheus_a._daminelli/">
+  <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff79c6" alt="Instagram"/>
+</a>
+
+</div>
