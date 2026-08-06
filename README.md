@@ -24,7 +24,7 @@
 Transforming ideas into digital solutions through clean code and modern technologies.
 Specialized in React, React Native, Kotlin, and scalable backend architectures.
 
-**Currently at** VoxCity Telecom — Criciuma, SC, Brazil
+**Currently at** Agrosys/Aliare — Criciuma, SC, Brazil
 
 </details>
 
@@ -35,6 +35,13 @@ Specialized in React, React Native, Kotlin, and scalable backend architectures.
 ## Experience
 
 <table>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/2026-50fa7b?style=flat-square&logoColor=white" alt="2026"/></td>
+<td>
+<strong>Full Stack Developer</strong> — Agrosys/Aliare<br/>
+<sub>Building screens and maintaining an ERP software, most specifcally in Incubation and comercial modules.</sub>
+</td>
+</tr>
 <tr>
 <td width="80" align="center"><img src="https://img.shields.io/badge/2025-50fa7b?style=flat-square&logoColor=white" alt="2025"/></td>
 <td>
